@@ -1,5 +1,7 @@
 # Hftsolution Limit Order Book
 
+Limit Order functionality is not exactly as shown at https://www.5minutefinance.org/concepts/the-limit-order-book , but I feel this implementation is better.
+
 Usage (All inputs will be prompted):
 1. First create some Buy Listings and Sell Listings by giving intputs as:
 l(for limit orders), 
